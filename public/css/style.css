@@ -1,0 +1,70 @@
+html {
+    width: 95%;
+    height: 55%;
+}
+
+body {
+    background-color: #777;
+    width: 100%;
+    height: 100%;
+
+}
+
+h1 {
+    font-size: 45px;
+}
+input {
+    height: 20px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 5px;
+    
+}
+.divLogin {
+    background-color: #fff;
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 10%;
+    border-radius: 40px;
+    padding-bottom: 10px;
+    box-shadow: 4px 4px 2px 2px #0008;
+}
+
+.button{
+    font-size: 15px;
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 100px;
+    color: #fff;
+    background: #000;
+    
+}
+
+.button:active {
+    box-shadow: 2px 2px 1px 1px #0007;
+}
+
+a {
+    background-color: #aaa;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.divGrafico {
+    text-align: center;
+}
+
+.grafico {
+    margin-left: 35%;
+}
+
+.logout {
+    background-color: #fff;
+    color: #000;
+}
+
+
